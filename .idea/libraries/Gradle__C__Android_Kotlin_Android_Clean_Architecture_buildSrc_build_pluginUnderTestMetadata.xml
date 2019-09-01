@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: C__Android_Kotlin_Android_Clean_Architecture_buildSrc_build_pluginUnderTestMetadata">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/buildSrc/build/pluginUnderTestMetadata" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
